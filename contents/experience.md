@@ -1,21 +1,14 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **项目经历**
+#### **大模型本地部署及测试**
+- 内容: 帮助学校完成 deepseek 大模型 T4 分布式部署，完成开发测试，并以此机会对 transforms 进行了一定的学习和了解
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+#### **M5C 构建优化**
+- 内容: 2025ASC 赛题，对于 RNA 处理的工程项目进行搭建和实现
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### **石油开采渗流数值模拟性能调优**
+- 内容: 2024ASC 赛题，对于石油开采渗流数值模拟工程项目进行优化，在数组矩阵和文件读写方面进行了优化
+
+#### **CMU 15-418**
+- 内容: CMU 并行编程工程作业，进行了指令级并行，线程级并行，数据级并行程序的学习和编写
 
 ---
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
